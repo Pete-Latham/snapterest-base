@@ -7,7 +7,7 @@ Open CLI and cd to `snapterest` folder
 `npm install` to download required patches.
 `npm start` to compile
 
-##Additions
+## Additions
 In addition to the setup described in the book, this project has been configured for hot browser loading. Ensure that your entry point JS file (probably `app.js`) has the following as its last line.
 `module.hot.accept();`
 
